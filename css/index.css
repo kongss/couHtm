@@ -53,7 +53,6 @@
 }
 .seller-recommend{
     margin-left: 620px;
-    background-color: #b3fff4;
     height: 500px;
     width: 250px;
 }
@@ -80,4 +79,8 @@
     cursor: pointer;
     font-size: 30px;
     color: #000000;
+}
+.recommend-list .recommend-group{
+    list-style-type:none;
+    margin-top: 5px;
 }
