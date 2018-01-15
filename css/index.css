@@ -29,7 +29,7 @@
 .seller-show{
     text-align: center;
     width: 900px;
-    height: 300px;
+    height: 235px;
     margin: 0 auto;
     border-bottom: 1px solid #dcdcdc;
     border-left: 1px solid #dcdcdc;
@@ -41,6 +41,9 @@
     font-size: 15px;
     margin-left: 15px;
     margin-top: 10px;
+}
+.seller-ul{
+    margin-left: -35px;
 }
 .seller-li{
     width: 110px;
