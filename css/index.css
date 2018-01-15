@@ -4,7 +4,17 @@
 }
 .coupon-list{
     background-color: #efefef;
+    text-align: center;
+    width: 900px;
     height: 800px;
+    margin: 0 auto;
+    border-bottom: 1px solid #dcdcdc;
+    border-left: 1px solid #dcdcdc;
+    border-right: 1px solid #dcdcdc;
+}
+.coupon-content{
+    float: left;
+    width: 600px;
 }
 .seller-content{
     text-align: center;
@@ -40,4 +50,34 @@
 .seller-pic{
     width: 105px;
     height: 40px;
+}
+.seller-recommend{
+    margin-left: 620px;
+    background-color: #b3fff4;
+    height: 500px;
+    width: 250px;
+}
+.coupon-content .coupon-group{
+    margin: 10px 0;
+    height: 130px;
+}
+.coupon-group .coupon-d{
+    height: 130px;
+    float: left;
+    margin-left: 3px;
+    background-color: #e4e4e4;
+}
+.coupon-group .sInfo{
+    width: 185px;
+}
+.coupon-group .cInfo{
+    width: 315px;
+}
+.coupon-group .cAction{
+    width: 70px;
+}
+.get-span{
+    cursor: pointer;
+    font-size: 30px;
+    color: #000000;
 }
